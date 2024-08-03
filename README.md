@@ -4,8 +4,7 @@ Este projeto é uma aplicação prática do uso de Python e SQLAlchemy para carr
 
 ## Artigo no Medium
 
-Confira o artigo completo no Medium: [Análise Financeira do Esporte Clube Bahia: aplicando a Metodologia CRISP-DM]([https://medium.com/sua-url-do-artigo](https://medium.com/@reisrodri/an%C3%A1lise-financeira-do-esporte-clube-bahia-aplicando-a-metodologia-crisp-dm-com-python-postgresql-3275be6e375d))
-
+[Análise Financeira do Esporte Clube Bahia: aplicando a Metodologia CRISP-DM](https://medium.com/@reisrodri/an%C3%A1lise-financeira-do-esporte-clube-bahia-aplicando-a-metodologia-crisp-dm-com-python-postgresql-3275be6e375d)
 
 ## Estrutura do Projeto
 

@@ -2,6 +2,10 @@
 
 Este projeto é uma aplicação prática do uso de Python e SQLAlchemy para carregar dados contábeis de um arquivo Excel para um banco de dados PostgreSQL. Utilizamos a metodologia CRISP-DM para estruturar a análise dos dados.
 
+## Artigo no Medium
+
+[Análise Financeira do Esporte Clube Bahia: aplicando a Metodologia CRISP-DM](https://medium.com/@reisrodri/an%C3%A1lise-financeira-do-esporte-clube-bahia-aplicando-a-metodologia-crisp-dm-com-python-postgresql-3275be6e375d)
+
 ## Estrutura do Projeto
 
 O projeto consiste em 6 etapas principais:
